@@ -21,7 +21,7 @@ I have developed various mods for ChilloutVR, all conveniently available in my b
 
 | Repository               | Commits                                                              | Issues                                                           | Current Mods |
 |--------------------------|----------------------------------------------------------------------|------------------------------------------------------------------|--------------|
-| [**NAK_CVR_Mods**](https://github.com/NotAKidOnSteam/NAK_CVR_Mods/) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/NotAKidOnSteam/NAK_CVR_Mods?color=blue&logo=github&style=flat) | ![GitHub issues](https://img.shields.io/github/issues/NotAKidOnSteam/NAK_CVR_Mods?color=red&logo=github&style=flat) | 23           |
+| [**NAK_CVR_Mods**](https://github.com/NotAKidOnSteam/NAK_CVR_Mods/) | ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/NotAKidOnSteam/NAK_CVR_Mods?color=blue&logo=github&style=flat) | ![GitHub issues](https://img.shields.io/github/issues/NotAKidOnSteam/NAK_CVR_Mods?color=red&logo=github&style=flat) | 26           |
 
 Explore the repository to find exciting mods and enhancements for your ChilloutVR experience!
 
