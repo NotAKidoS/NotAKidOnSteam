@@ -29,3 +29,6 @@ Explore the repository to find exciting mods and enhancements for your ChilloutV
 
 
 the furry pfp is a coding buff... probably
+
+![1153175003181875212](https://github.com/NotAKidOnSteam/NotAKidOnSteam/assets/37721153/9251d0ad-28e8-4989-87cf-6971f1591a66)
+
