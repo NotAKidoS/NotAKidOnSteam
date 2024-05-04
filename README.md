@@ -12,9 +12,16 @@ I currently work on ChilloutVR, mods & related unity scripts in my freetime.
 |---------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**AASEmulator**](https://github.com/NotAKidOnSteam/AASEmulator/)                                                   | [![GitHub issues](https://img.shields.io/github/issues/NotAKidOnSteam/AASEmulator?color=green&logo=github&style=flat)](https://github.com/NotAKidOnSteam/AASEmulator/issues)                                       |
 | [**AvatarPointerGenerator**](https://github.com/NotAKidOnSteam/AvatarPointerGenerator/)           | [![GitHub issues](https://img.shields.io/github/issues/NotAKidOnSteam/AvatarPointerGenerator?color=green&logo=github&style=flat)](https://github.com/NotAKidOnSteam/AvatarPointerGenerator/issues) |
-| [**CVR.BaseAnimatorPatch**](https://github.com/NotAKidOnSteam/CVR.BaseAnimatorPatch/)               | [![GitHub issues](https://img.shields.io/github/issues/NotAKidOnSteam/CVR.BaseAnimatorPatch?color=green&logo=github&style=flat)](https://github.com/NotAKidOnSteam/CVR.BaseAnimatorPatch/issues)     |
 | [**SimpleAAS**](https://github.com/NotAKidOnSteam/SimpleAAS/)                                                   | [![GitHub issues](https://img.shields.io/github/issues/NotAKidOnSteam/SimpleAAS?color=green&logo=github&style=flat)](https://github.com/NotAKidOnSteam/SimpleAAS/issues)                                       |
 | [**QuickMaterialSwap**](https://github.com/NotAKidOnSteam/QuickMaterialSwap/)                           | [![GitHub issues](https://img.shields.io/github/issues/NotAKidOnSteam/QuickMaterialSwap?color=green&logo=github&style=flat)](https://github.com/NotAKidOnSteam/QuickMaterialSwap/issues)                           |
+| [**UnusedBoneRefCleaner**](https://github.com/NotAKidOnSteam/UnusedBoneRefCleaner/)               | [![GitHub issues](https://img.shields.io/github/issues/NotAKidOnSteam/UnusedBoneRefCleaner?color=green&logo=github&style=flat)](https://github.com/NotAKidOnSteam/UnusedBoneRefCleaner/issues)     |
+
+## ChilloutVR Prefabs & Assets
+| Project                                           | Issues                                                                                                                                                                                                                                  |
+|---------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [**CVR.BaseAnimatorPatch**](https://github.com/NotAKidOnSteam/CVR.BaseAnimatorPatch/)               | [![GitHub issues](https://img.shields.io/github/issues/NotAKidOnSteam/CVR.BaseAnimatorPatch?color=green&logo=github&style=flat)](https://github.com/NotAKidOnSteam/CVR.BaseAnimatorPatch/issues)     |
+| [**NAK_CVR_Prefabs**](https://github.com/NotAKidOnSteam/NAK_CVR_Prefabs/)                                   | [![GitHub issues](https://img.shields.io/github/issues/NotAKidOnSteam/NAK_CVR_Prefabs?color=green&logo=github&style=flat)](https://github.com/NotAKidOnSteam/NAK_CVR_Prefabs/issues)                         |
+
 
 ## ChilloutVR Mods
 
