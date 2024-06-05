@@ -4,7 +4,9 @@ I made Garrys Mod addons 24/7 until I met some robonekos in VRChat.
 
 I made VRChat content 24/7 until a certain non-epic e(ac)vent.
 
-I currently work on ChilloutVR mods & related unity scripts in my freetime.
+I worked on СhilloutVR, mods & related unity scripts in my freetime.
+
+now idk what do :3
 
 ## ChilloutVR Unity Scripts
 
